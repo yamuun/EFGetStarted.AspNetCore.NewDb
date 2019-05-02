@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using EFGetStarted.AspNetCore.NewDb.Models;
 
 namespace EFGetStarted.AspNetCore.NewDb.Models
 {
@@ -11,6 +12,7 @@ namespace EFGetStarted.AspNetCore.NewDb.Models
 
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
+        public DbSet<EFGetStarted.AspNetCore.NewDb.Models.Movie> Movie { get; set; }
     }
 
     public class Blog

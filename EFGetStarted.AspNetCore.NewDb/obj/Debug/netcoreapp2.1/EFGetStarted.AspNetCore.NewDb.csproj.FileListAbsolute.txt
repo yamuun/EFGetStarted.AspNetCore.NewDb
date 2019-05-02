@@ -35,3 +35,8 @@ C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore
 C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Details.cshtml.g.cs
 C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Edit.cshtml.g.cs
 C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Blogs\Index.cshtml.g.cs
+C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\yamu\source\repos\EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Index.cshtml.g.cs
